@@ -27,8 +27,8 @@
   },
   "analytics_engine_datasets": [
     {
-      "binding": "ANALYTICS",
-      "dataset": "sink"
+      "binding": "HEIANALYTICS",
+      "dataset": "heisink"
     }
   ],
   "kv_namespaces": [
